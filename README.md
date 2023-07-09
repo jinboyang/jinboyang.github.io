@@ -1,15 +1,5 @@
 # Jinbo Yang
 ---
-title: DataScientist-Checklist
-tags:
-  - DataScience
-toc: true
-categories:
-  - Checklist
-mathjax: true
-comments: true
-date: 2023-07-08 
----
 
 <!-- more -->
 ## Checklist
